@@ -1,0 +1,10 @@
+Luma | NA | |
+Golden WB D50 | 5000 | |
+Normal WB TL84 | 5000 | |
+Normal WB A | 2856 | |
+Normal WB D65 | 6500 | |
+Normal WB Horizon | 2000 | |
+LowLight WB TL84 | 4100 | |
+LowLight WB A | 2856 | |
+LowLight WB D65 | 6500 | |
+LowLight WB Horizon | 2000 | |
